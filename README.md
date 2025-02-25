@@ -9,5 +9,5 @@
   - [nunit-browserstack-poc](https://github.com/choushen/nunit-browserstack-poc)
   - [playwright-dotnet-poc](https://github.com/choushen/playwright-dotnet-poc)
   - [java-allure-test-framework](https://github.com/choushen/java-allure-test-framework)
-- 🎯My goal is to keep growing as a SDET/Dev. There's always some new technology or a better way to do things. I want to stay ahead of the curve.  
+- 🎯My goal is to keep growing as a SDET and a developer. There's always some new technology or a better way to do things. I want to stay ahead of the curve.  
 - 📫 Thanks for checking out my profile. You can reach me at: jacob.mckenzie@icloud.com
