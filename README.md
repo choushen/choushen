@@ -5,7 +5,7 @@
 - 💬 I specialise in building scalable test solutions using Selenium, Playwright, Appium and Cypress using C#, Python, TypeScript and Java and integrating them into CI/CD tooling such as Jenkins, Bamboo, GitHub Actions and Azure. 
 - 🗣 I'm fluent in English, able to converse in Japanese, and currently trying to improve my Chinese Mandarin skills.
 - 📫 How to reach me: jacob.mckenzie@icloud.com
-- ℹ️ Here are some other testing projects that are not listed below:
+- ℹ️ Below are some testing projects that are not listed in the pinned section of my profile:
   - [xunit-browserstack-poc](https://github.com/choushen/xunit-browserstack-poc)
   - [nunit-browserstack-poc](https://github.com/choushen/nunit-browserstack-poc)
   - [playwright-dotnet-poc](https://github.com/choushen/playwright-dotnet-poc)
