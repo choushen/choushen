@@ -10,8 +10,8 @@
   - I enjoy game development, computer graphics and mobile applications using ReactNative, building web applications using ReactTS, DaisyUI (TailwindCSS), and working with AI using LangChain. My first language was Lua, so I dip in and out of it occasionally when modding video games or making my own.I'm experienced in Python-based Data Science: EDA, Supervised Learning (Regression/Classification), and Unsupervised Learning (Clustering/PCA).
 
 - 💬 I specialise in:
--  Building scalable test solutions using Selenium, Playwright, Appium and Cypress using C#, Python, TypeScript and Java and integrating them into CI/CD tooling such as Jenkins, Bamboo, GitHub Actions and Azure.
--  Building modern frontends making use of React, DaisyUI and styling and MotionJS for animations. For backend, I opt for .NET Core/Minimal, Azure Serverless, or if Python, then Django or Flask.
+  -  Building scalable test solutions using Selenium, Playwright, Appium and Cypress using C#, Python, TypeScript and Java and integrating them into CI/CD tooling such as Jenkins, Bamboo, GitHub Actions and Azure.
+  -  Building modern frontends making use of React, DaisyUI and styling and MotionJS for animations. For backend, I opt for .NET Core/Minimal, Azure Serverless, or if Python, then Django or Flask.
 
 - 🗣 I'm fluent in English, able to converse in Japanese, and currently trying to improve my Chinese Mandarin skills.
 
