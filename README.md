@@ -1,22 +1,29 @@
-## Hello / Hallo / こんにちは / 你好 / 안녕하세요!
+# SDET // SOFTWARE DEVELOPER
 
-- 🎓  Computer Science BSc
-- 🎓  Software Engineering Specialist with AI MSc
+## Hello / こんにちは / 你好 / 안녕하세요 👋
 
-- 🌱 I’m currently working on my TypeScript and Python skills, so expect to see more of that on my GitHub. I'm comfortable with C# and Java. I work with C# every day, and Java got me through uni :-)
+🎓 **Computer Science BSc**
+🎓 **MSc Software Engineering with AI**
 
-- ⭐ Outside of testing:
-  - I'm an adopter of AI tools (Antigravity, Copilot and Cursor, making use of MCP servers). I tend to use AI as a productivity tool to complement what I know and study what it produces before dropping it into a codebase.
-  - I enjoy game development, computer graphics and mobile applications using ReactNative, building web applications using ReactTS, DaisyUI (TailwindCSS), and working with AI using LangChain. My first language was Lua, so I dip in and out of it occasionally when modding video games, or working on my own. I have experienced using Python for Data Science: EDA, Supervised Learning (Regression/Classification), and Unsupervised Learning (Clustering/PCA).
+I build reliable test automation and modern applications.
 
-- 💬 I specialise in:
-  -  Building scalable test solutions using Selenium, Playwright, Appium and Cypress using C#, Python, TypeScript and Java and integrating them into CI/CD tooling such as Jenkins, Bamboo, GitHub Actions and Azure.
-  -  Building modern frontends making use of React, DaisyUI and styling and MotionJS for animations. For backend, I opt for .NET Core/Minimal, Azure Serverless, or if Python, then Django or Flask.
+```text
+TESTING   → Selenium · Playwright · Appium
+CODE      → C# · Java · TypeScript · Python
+WEB       → React · .NET · Spring · Tailwind · DaisyUI
+DEVOPS    → Jenkins · GitHub Actions · Azure . AWS
+AI        → Copilot · Cursor · MCP · LangChain
+```
 
-- 🗣 I'm fluent in English, able to converse in Japanese, and currently trying to improve my Korean language skills. I enjoy studying languages, in the past I studied German and Mandarin Chinese too!
+Currently focused on **TypeScript**, **Python** and **Java** becoming a stronger software developer.
 
-- ℹ️ Below are some testing projects that are not listed in the pinned section of my profile:
-  - [xunit-browserstack-poc](https://github.com/choushen/xunit-browserstack-poc)
-  - [nunit-browserstack-poc](https://github.com/choushen/nunit-browserstack-poc)
-  - [playwright-dotnet-poc](https://github.com/choushen/playwright-dotnet-poc)
-  - [java-allure-test-framework](https://github.com/choushen/java-allure-test-framework)
+```text
+AI assists the work.
+Understanding owns the code.
+```
+
+**Languages:** English · Japanese · Korean
+
+```text
+BUILD → TEST → LEARN → IMPROVE
+```
